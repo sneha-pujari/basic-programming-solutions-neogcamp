@@ -8,3 +8,8 @@ Intermediate: [https://replit.com/join/akahxaxe-snehapujari](https://replit.com/
 Easy: https://replit.com/join/tjldqucw-snehapujari <br />
 Medium: https://replit.com/join/yhywoqkh-snehapujari <br />
 Advanced: https://replit.com/join/tdpckzux-snehapujari <br />
+
+### Numbers
+https://replit.com/join/xdgnwhth-snehapujari <br />
+ 
+ ### Strings
